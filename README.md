@@ -6,6 +6,8 @@ Job application requires decoding strings and submission
 
 I can confirm the code does submit the correct values for the maths and I have submitted the jobref as PO32 so I am not sure what is worng.
 
+
+c3po = r2d2
 Reciving this error:
 
 <html>
